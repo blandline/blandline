@@ -8,13 +8,6 @@ I am a fourth-year computer engineering student at City University of Hong Kong,
 - 💻 Building a Win Prediction model for Table Tennis using computer vision and player profiling
 
 
-
-## 🎓 About Me
-
-I'm also an educational coding content creator, sharing my coding passion, and any advice on:
-
-
-
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadsarbuland/)
 
