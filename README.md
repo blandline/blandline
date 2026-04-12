@@ -5,7 +5,7 @@ I am a fourth-year computer engineering student at City University of Hong Kong,
 
 ## 🚀 What I'm Up To
 
-- 💻 Building a Win Prediction model for Table Tennis using computer vision and player profiling
+Building a Win Prediction model for Table Tennis using computer vision and player profiling
 
 
 ## 🌐 Connect with me:
